@@ -12,6 +12,7 @@
 		<config>src/DI_Spring04/DI_04_Spring_P.xml</config>
 		<config>src/DI_Spring05/DI_05_Spring_P.xml</config>
 		<config>src/DI_Spring06/DI_06_Spring_P.xml</config>
+		<config>src/DI_Spring07/DI_07_Spring_P.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

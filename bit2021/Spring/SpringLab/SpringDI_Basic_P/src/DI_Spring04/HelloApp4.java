@@ -27,7 +27,7 @@ public class HelloApp4 {
 		ProtocolHandler_P handler = context.getBean("protocolHandler_P",ProtocolHandler_P.class);
 		
 		System.out.println(handler.filters_length());
-		
+		System.out.println(handler.getFilters());
 	}
 
 	
